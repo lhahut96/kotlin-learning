@@ -1,0 +1,22 @@
+[
+  {
+    "color": "0xFFEADDFF",
+    "heading": "Text composable",
+    "content": "Displays text and follows the recommended Material Design guidelines."
+  },
+  {
+    "color": "0xFFD0BCFF",
+    "heading": "Image composable",
+    "content": "Creates a composable that lays out and draws a given Painter class object."
+  },
+  {
+    "color": "0xFFB69DF8",
+    "heading": "Row composable",
+    "content": "A layout composable that places its children in a horizontal sequence."
+  },
+  {
+    "color": "0xFFF6EDFF",
+    "heading": "Column composable",
+    "content": "A layout composable that places its children in a vertical sequence."
+  }
+]
